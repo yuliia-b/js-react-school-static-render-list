@@ -24,10 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6483d9a7-d6ec-4897-9b2e-7d08073e964e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/GithubUserProfile.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/GithubUserProfile.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/UserInfo.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UserInfo.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/UserStatistics.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,14 +53,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserInfo.test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserInfo.test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/UserInfo.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="67" selection-start-column="67" selection-end-column="67" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -138,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/components/GitHubUserProfile.js" />
         <option value="$PROJECT_DIR$/src/test/GithubUserProfile.test.js" />
         <option value="$PROJECT_DIR$/src/test/UserInfo.test.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -174,23 +184,6 @@
             <path>
               <item name="js-react-school-static-render-list" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-react-school-static-render-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-react-school-static-render-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-react-school-static-render-list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-react-school-static-render-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-react-school-static-render-list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-react-school-static-render-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-react-school-static-render-list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,12 +231,12 @@
       <workItem from="1536298867329" duration="2482000" />
       <workItem from="1536330610215" duration="1025000" />
       <workItem from="1536332708957" duration="2123000" />
-      <workItem from="1536428759322" duration="4417000" />
+      <workItem from="1536428759322" duration="5013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15690000" />
+    <option name="totallyTimeSpent" value="16286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
@@ -374,14 +367,6 @@
     <entry file="file://$PROJECT_DIR$/scripts/build.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/UserAvatar.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -478,11 +463,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/UserInfo.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="67" selection-start-column="67" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
